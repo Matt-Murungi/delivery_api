@@ -1,0 +1,14 @@
+.yellow-btn{
+    background-color: #EFAF1D;
+    color: black;
+}
+.yellow-btn:hover{
+    background-color: #1A411D;
+    color: white;
+}
+.green-text{
+    color: #1A411D;
+}
+.yellow-input{
+    border-color: #EFAF1D;
+}
